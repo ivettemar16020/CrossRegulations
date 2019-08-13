@@ -8,20 +8,25 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <Button variant="primary">Primary</Button>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        CrssReg
       </header>
+      <div class="header">
+        <img class="logo"/>
+        <div class="header-right">
+          <a class="active" href="#home">Inicio</a>
+          <a href="#history">Historial</a>
+          <a href="#report">Reportes</a>
+          <a href="#help">Ayuda</a>
+        </div>
+      </div>
+      <div className="body">
+        <ol class="arrows">
+          <li><a href="#Selection">Selección</a></li>
+          <li><a href="#Analysis">Análisis</a></li>
+          <li><a href="#Checklist">Checklist</a></li>
+          <li><a href="#State">Estado</a></li>
+        </ol>
+      </div>
     </div>
   );
 }
