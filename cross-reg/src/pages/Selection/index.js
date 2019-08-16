@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {OutTable, ExcelRenderer} from 'react-excel-renderer';
+import xlsxParser from 'xlsx-parse-json';
 import { Jumbotron, Col, Input, InputGroup, InputGroupAddon, FormGroup, Label, Button, Fade, FormFeedback, Container, Card } from 'reactstrap';
 import './selection.css';
 
@@ -11,7 +12,8 @@ class Selection extends Component {
       dataLoaded: false,
       isFormInvalid: false,
       rows: null,
-      cols: null
+      cols: null, 
+      parsed: null
     }
     this.fileHandler = this.fileHandler.bind(this);
     this.toggle = this.toggle.bind(this);
@@ -31,11 +33,14 @@ class Selection extends Component {
           this.setState({
             dataLoaded: true,
             cols: resp.cols,
-            rows: resp.rows
+            rows: resp.rows,
+            parsed: JSON.parse(JSON.stringify(resp))
           });
         }
+        console.log(this.state.parsed );
       }); 
   }
+  
 
   fileHandler = (event) => {    
     if(event.target.files.length){
@@ -57,7 +62,7 @@ class Selection extends Component {
           uploadedFileName: ""
         })
       }
-    }               
+    }         
   }
 
   toggle() {

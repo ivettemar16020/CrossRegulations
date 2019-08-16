@@ -13,7 +13,9 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.0",
     "reactstrap": "^8.0.1",
-    "read-excel-file": "^4.0.2"
+    "read-excel-file": "^4.0.2",
+    "xlsx-parse-json": "^3.0.2",
+    "xlsx-to-json": "^0.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
