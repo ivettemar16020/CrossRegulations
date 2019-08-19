@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Selection from './pages/Selection/index';
+import Analysis from './pages/Analysis/index';
 import Button from 'react-bootstrap/Button';
 //https://github.com/creativetimofficial/light-bootstrap-dashboard-react
 
@@ -39,6 +40,7 @@ function App() {
           </div>
         </div>
         <Selection />
+        <Analysis />
       </div>
     </div>
   );

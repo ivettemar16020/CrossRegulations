@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1, 
+        "funcion":"1. Identificar", 
+        "categoria":"1. Gestión de activos", 
+        "descripcionCat":"Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización.",
+        "subCat":"ID.AM-1",
+        "descripcionSubCat":"Los dispositivos y sistemas físicos dentro de la organización están inventariados",
+        "relación": null,
+        "cumplimiento": 0
+    },
+    {
+        "id": 2, 
+        "funcion":"1. Identificar", 
+        "categoria":"1. Gestión de activos", 
+        "descripcionCat":"Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización.",
+        "subCat":"ID.AM-2",
+        "descripcionSubCat":"Las plataformas de software y las aplicaciones dentro de la organización están inventariadas.",
+        "relación": null,
+        "cumplimiento": 0
+    },
+    {
+        "id": 3, 
+        "funcion":"1. Identificar", 
+        "categoria":"1. Gestión de activos", 
+        "descripcionCat":"Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización.",
+        "subCat":"ID.AM-3",
+        "descripcionSubCat":"La comunicación organizacional y los flujos de datos están mapeados.",
+        "relación": [
+        "A7"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 4, 
+        "funcion":"1. Identificar", 
+        "categoria":"1. Gestión de activos", 
+        "descripcionCat":"Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización.",
+        "subCat":"ID.AM-4",
+        "descripcionSubCat":"Los sistemas de información externos están catalogados.",
+        "relación": [
+        "A11.1"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 5, 
+        "funcion":"1. Identificar", 
+        "categoria":"1. Gestión de activos", 
+        "descripcionCat":"Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización.",
+        "subCat":"ID.AM-5",
+        "descripcionSubCat":"Los sistemas de información externos están catalogados.",
+        "relación": [
+        "A11.1"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 6, 
+        "funcion":"1. Identificar", 
+        "categoria":"1. Gestión de activos", 
+        "descripcionCat":"Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización.",
+        "subCat":"ID.AM-6",
+        "descripcionSubCat":"Los roles y las responsabilidades de la seguridad cibernética para toda la fuerza de trabajo y terceros interesados (por ejemplo, proveedores, clientes, socios) están establecidas.",
+        "relación": [
+        "A7"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 7, 
+        "funcion":"1. Identificar", 
+        "categoria":"2. Entorno empresarial", 
+        "descripcionCat":"Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética.",
+        "subCat":"ID.BE-1",
+        "descripcionSubCat":"Se identifica y se comunica la función de la organización en la cadena de suministro.",
+        "relación": null,
+        "cumplimiento": 0
+    },
+    {
+        "id": 8, 
+        "funcion":"1. Identificar", 
+        "categoria":"2. Entorno empresarial", 
+        "descripcionCat":"Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética.",
+        "subCat":"ID.BE-2",
+        "descripcionSubCat":"Se identifica y se comunica el lugar de la organización en la infraestructura crítica y su sector industrial.",
+        "relación": null,
+        "cumplimiento": 0
+    },
+    {
+        "id": 9, 
+        "funcion":"1. Identificar", 
+        "categoria":"2. Entorno empresarial", 
+        "descripcionCat":"Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética.",
+        "subCat":"ID.BE-3",
+        "descripcionSubCat":"Se establecen y se comunican las prioridades para la misión, los objetivos y las actividades de la organización.",
+        "relación": null,
+        "cumplimiento": 0
+    }, 
+    {
+        "id": 10, 
+        "funcion":"1. Identificar", 
+        "categoria":"2. Entorno empresarial", 
+        "descripcionCat":"Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética.",
+        "subCat":"ID.BE-4",
+        "descripcionSubCat":"Se establecen las dependencias y funciones fundamentales para la entrega de servicios críticos.",
+        "relación": [
+        "A16"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 11, 
+        "funcion":"1. Identificar", 
+        "categoria":"2. Entorno empresarial", 
+        "descripcionCat":"Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética.",
+        "subCat":"ID.BE-5",
+        "descripcionSubCat":"Los requisitos de resiliencia para respaldar la entrega de servicios críticos se establecen para todos los estados operativos (p. ej. bajo coacción o ataque, durante la recuperación y operaciones normales).",
+        "relación": null,
+        "cumplimiento": 0
+    },
+    {
+        "id": 11, 
+        "funcion":"1. Identificar", 
+        "categoria":"3. Gobernanza", 
+        "descripcionCat":"Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética.",
+        "subCat":"ID.GV-1",
+        "descripcionSubCat":"Se establece y se comunica la política de seguridad cibernética organizacional.",
+        "relación": null,
+        "cumplimiento": 0
+    },
+    {
+        "id": 12, 
+        "funcion":"1. Identificar", 
+        "categoria":"3. Gobernanza", 
+        "descripcionCat":"Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética.",
+        "subCat":"ID.GV-2",
+        "descripcionSubCat":"Los roles y las responsabilidades de seguridad cibernética están coordinados y alineados con roles internos y socios externos.",
+        "relación": [
+            "A7"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 13, 
+        "funcion":"1. Identificar", 
+        "categoria":"3. Gobernanza", 
+        "descripcionCat":"Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética.",
+        "subCat":"ID.GV-3",
+        "descripcionSubCat":"Se comprenden y se gestionan los requisitos legales y regulatorios con respecto a la seguridad cibernética, incluidas las obligaciones de privacidad y libertades civiles.",
+        "relación": [
+            "A18"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 14, 
+        "funcion":"1. Identificar", 
+        "categoria":"3. Gobernanza", 
+        "descripcionCat":"Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética.",
+        "subCat":"ID.GV-4",
+        "descripcionSubCat":"Los procesos de gobernanza y gestión de riesgos abordan los riesgos de seguridad cibernética.",
+        "relación": [
+            "A5.5", "A7"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 15, 
+        "funcion":"1. Identificar", 
+        "categoria":"4. Evaluación de los riesgos", 
+        "descripcionCat":"La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.",
+        "subCat":"ID.RA-1",
+        "descripcionSubCat":"Se identifican y se documentan las vulnerabilidades de los activos.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 16, 
+        "funcion":"1. Identificar", 
+        "categoria":"4. Evaluación de los riesgos", 
+        "descripcionCat":"La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.",
+        "subCat":"ID.RA-2",
+        "descripcionSubCat":"La inteligencia de amenazas cibernéticas se recibe de foros y fuentes de intercambio de información.",
+        "relación": null,
+        "cumplimiento": 0
+    },
+    {
+        "id": 17, 
+        "funcion":"1. Identificar", 
+        "categoria":"4. Evaluación de los riesgos", 
+        "descripcionCat":"La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.",
+        "subCat":"ID.RA-3",
+        "descripcionSubCat":"Se identifican y se documentan las amenazas, tanto internas como externas.",
+        "relación": [
+            "A5", "A8", "A9"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 18, 
+        "funcion":"1. Identificar", 
+        "categoria":"4. Evaluación de los riesgos", 
+        "descripcionCat":"La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.",
+        "subCat":"ID.RA-4",
+        "descripcionSubCat":"Se identifican los impactos y las probabilidades del negocio.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 19, 
+        "funcion":"1. Identificar", 
+        "categoria":"4. Evaluación de los riesgos", 
+        "descripcionCat":"La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.",
+        "subCat":"ID.RA-5",
+        "descripcionSubCat":"Se identifican y se documentan las vulnerabilidades de los activos.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 20, 
+        "funcion":"1. Identificar", 
+        "categoria":"4. Evaluación de los riesgos", 
+        "descripcionCat":"La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.",
+        "subCat":"ID.RA-6",
+        "descripcionSubCat":"Se identifican y priorizan las respuestas al riesgo.",
+        "relación": [
+            "A5", "A11"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 21, 
+        "funcion":"1. Identificar", 
+        "categoria":"5. Estrategia de gestión de riesgos", 
+        "descripcionCat":"Se establecen las prioridades, restricciones, tolerancias de riesgo y suposiciones de la organización y se usan para respaldar las decisiones de riesgos operacionales.",
+        "subCat":"ID.RM-1",
+        "descripcionSubCat":"Los actores de la organización establecen, gestionan y acuerdan los procesos de gestión de riesgos.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 21, 
+        "funcion":"1. Identificar", 
+        "categoria":"5. Estrategia de gestión de riesgos", 
+        "descripcionCat":"Se establecen las prioridades, restricciones, tolerancias de riesgo y suposiciones de la organización y se usan para respaldar las decisiones de riesgos operacionales.",
+        "subCat":"ID.RM-2",
+        "descripcionSubCat":"La tolerancia al riesgo organizacional se determina y se expresa claramente.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 21, 
+        "funcion":"1. Identificar", 
+        "categoria":"5. Estrategia de gestión de riesgos", 
+        "descripcionCat":"Se establecen las prioridades, restricciones, tolerancias de riesgo y suposiciones de la organización y se usan para respaldar las decisiones de riesgos operacionales.",
+        "subCat":"ID.RM-3",
+        "descripcionSubCat":"La determinación de la tolerancia del riesgo de la organización se basa en parte en su rol en la infraestructura crítica y el análisis del riesgo específico del sector.",
+        "relación": [
+            "A11"
+        ],
+        "cumplimiento": 0
+    }
+]
