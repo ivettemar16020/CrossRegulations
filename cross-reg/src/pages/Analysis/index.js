@@ -1,13 +1,19 @@
 import React, {Component} from 'react'
 import nist from '../../data/nist'
-
+import {Pie} from 'react-chartjs-2'
 
 class Analysis extends Component{
     constructor(props) {
         super(props);
     
         this.state = {
-          similar: 0
+          similar: 5, 
+          diferente: 8,
+          labels: ['Similares', 'Diferentes'], 
+          datasets: [{
+              data: [5, 8],
+              backgroundColor: ['orange', 'purple']
+          }]
         };
     }
 
@@ -26,15 +32,28 @@ class Analysis extends Component{
         
         return(
             <div>
-                {nist.map((nistDetail, index) => {
-                    return <div>
-                    <h1> {nistDetail.subCat}</h1>
-                    <p>{nistDetail.descripcionSubCat}</p>
-                    </div>
-                })} 
+                <h1>Gráfica comparativa</h1>
+                <Pie
+                    data={{
+                        labels: this.state.labels,
+                        datasets: this.state.datasets
+                    }}
+                    height='58%     '
+                />
             </div>
         )
     }
 }
 
 export default Analysis
+
+/*
+
+{nist.map((nistDetail, index) => {
+                    return <div>
+                    <h1> {nistDetail.subCat}</h1>
+                    <p>{nistDetail.descripcionSubCat}</p>
+                    </div>
+                })} 
+
+*/

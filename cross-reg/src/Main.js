@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom'
 import Home from './Home'
 import Selection from './pages/Selection'
 import Analysis from './pages/Analysis'
+import Checklist from './pages/Checklist'
 
 
 // The Main component renders one of the three provided
@@ -16,6 +17,7 @@ const Main = () => (
       <Route exact path='/' component={Home}/>
       <Route path='/selection' component={Selection}/>
       <Route path='/analysis' component={Analysis}/>
+      <Route path='/checklist' component={Checklist}/>
     </Switch>
   </main>
 )
