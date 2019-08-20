@@ -7,7 +7,7 @@
         "subCat":"ID.AM-1",
         "descripcionSubCat":"Los dispositivos y sistemas físicos dentro de la organización están inventariados",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 2, 
@@ -17,7 +17,7 @@
         "subCat":"ID.AM-2",
         "descripcionSubCat":"Las plataformas de software y las aplicaciones dentro de la organización están inventariadas.",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 3, 
@@ -29,7 +29,7 @@
         "relación": [
         "A7"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 4, 
@@ -41,7 +41,7 @@
         "relación": [
         "A11.1"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 5, 
@@ -53,7 +53,7 @@
         "relación": [
         "A11.1"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 6, 
@@ -65,7 +65,7 @@
         "relación": [
         "A7"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 7, 
@@ -75,7 +75,7 @@
         "subCat":"ID.BE-1",
         "descripcionSubCat":"Se identifica y se comunica la función de la organización en la cadena de suministro.",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 8, 
@@ -85,7 +85,7 @@
         "subCat":"ID.BE-2",
         "descripcionSubCat":"Se identifica y se comunica el lugar de la organización en la infraestructura crítica y su sector industrial.",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 9, 
@@ -95,7 +95,7 @@
         "subCat":"ID.BE-3",
         "descripcionSubCat":"Se establecen y se comunican las prioridades para la misión, los objetivos y las actividades de la organización.",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     }, 
     {
         "id": 10, 
@@ -107,7 +107,7 @@
         "relación": [
         "A16"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 11, 
@@ -117,7 +117,7 @@
         "subCat":"ID.BE-5",
         "descripcionSubCat":"Los requisitos de resiliencia para respaldar la entrega de servicios críticos se establecen para todos los estados operativos (p. ej. bajo coacción o ataque, durante la recuperación y operaciones normales).",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 11, 
@@ -127,7 +127,7 @@
         "subCat":"ID.GV-1",
         "descripcionSubCat":"Se establece y se comunica la política de seguridad cibernética organizacional.",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 12, 
@@ -139,7 +139,7 @@
         "relación": [
             "A7"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 13, 
@@ -151,7 +151,7 @@
         "relación": [
             "A18"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 14, 
@@ -163,7 +163,7 @@
         "relación": [
             "A5.5", "A7"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 15, 
@@ -175,7 +175,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 16, 
@@ -185,7 +185,7 @@
         "subCat":"ID.RA-2",
         "descripcionSubCat":"La inteligencia de amenazas cibernéticas se recibe de foros y fuentes de intercambio de información.",
         "relación": null,
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 17, 
@@ -197,7 +197,7 @@
         "relación": [
             "A5", "A8", "A9"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 18, 
@@ -209,7 +209,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 19, 
@@ -221,7 +221,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 20, 
@@ -233,7 +233,7 @@
         "relación": [
             "A5", "A11"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 21, 
@@ -245,7 +245,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 21, 
@@ -257,7 +257,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 21, 
@@ -269,7 +269,7 @@
         "relación": [
             "A11"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 22, 
@@ -281,7 +281,7 @@
         "relación": [
             "A16"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 23, 
@@ -293,7 +293,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 24, 
@@ -305,7 +305,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 25, 
@@ -317,7 +317,7 @@
         "relación": [
             "A5"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     },
     {
         "id": 25, 
@@ -329,6 +329,6 @@
         "relación": [
             "A5", "A6", "A11"
         ],
-        "cumplimiento": 0
+        "cumplimiento": null
     }
 ]
