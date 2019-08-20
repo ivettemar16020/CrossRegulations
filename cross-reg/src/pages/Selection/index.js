@@ -83,6 +83,18 @@ class Selection extends Component {
   render() {
     return (
       <div>
+        <div className="row">
+          <div className="col-md-12">
+          <p>Selecciona el nombre del estándar, regulación o marco legal </p>
+            <select className="mdb-select colorful-select dropdown-primary md-form" multiple searcable="Buscar">
+              <option value="1">Acuerdo No.006-2011</option>
+              <option value="1">NIST - Cybersecurity Framework</option>
+              <option value="1">GDC (República Dominicana)</option>
+              <option value="1">PCI</option>
+              <option value="1">ISO-27000</option>
+            </select>
+          </div>
+        </div>
         <Container>
         <form>
           <FormGroup row>

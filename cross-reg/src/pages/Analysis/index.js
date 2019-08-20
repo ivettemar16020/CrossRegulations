@@ -1,7 +1,27 @@
 import React, {Component} from 'react'
 import nist from '../../data/nist'
 
+
 class Analysis extends Component{
+    constructor(props) {
+        super(props);
+    
+        this.state = {
+          similar: 0
+        };
+    }
+
+    componentDidMount() {
+        console.log("working"); 
+    }
+
+    checkValue = (keyVal) => {
+        const i = 0;
+        if(keyVal == null)
+           i += 1
+        return i;
+     }
+
     render() {
         
         return(

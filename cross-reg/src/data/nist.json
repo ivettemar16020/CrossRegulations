@@ -270,5 +270,65 @@
             "A11"
         ],
         "cumplimiento": 0
+    },
+    {
+        "id": 22, 
+        "funcion":"1. Identificar", 
+        "categoria":"6. Gestión del riesgo de la cadena de suministro", 
+        "descripcionCat":"Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.",
+        "subCat":"ID.SC-1",
+        "descripcionSubCat":"Los actores de la organización identifican, establecen, evalúan, gestionan y acuerdan los procesos de gestión del riesgo de la cadena de suministro cibernética.",
+        "relación": [
+            "A16"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 23, 
+        "funcion":"1. Identificar", 
+        "categoria":"6. Gestión del riesgo de la cadena de suministro", 
+        "descripcionCat":"Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.",
+        "subCat":"ID.SC-2",
+        "descripcionSubCat":"Los proveedores y socios externos de los sistemas de información, componentes y servicios se identifican, se priorizan y se evalúan mediante un proceso de evaluación de riesgos de la cadena de suministro cibernético.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 24, 
+        "funcion":"1. Identificar", 
+        "categoria":"6. Gestión del riesgo de la cadena de suministro",
+        "descripcionCat":"Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.",
+        "subCat":"ID.SC-3",
+        "descripcionSubCat":"Los contratos con proveedores y socios externos se utilizan para implementar medidas apropiadas diseñadas para cumplir con los objetivos del programa de seguridad cibernética de una organización y el plan de gestión de riesgos de la cadena de suministro cibernético.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 25, 
+        "funcion":"1. Identificar", 
+        "categoria":"6. Gestión del riesgo de la cadena de suministro",
+        "descripcionCat":"Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.",
+        "subCat":"ID.SC-4",
+        "descripcionSubCat":"Los proveedores y los socios externos se evalúan de forma rutinaria mediante auditorías, resultados de pruebas u otras formas de evaluación para confirmar que cumplen con sus obligaciones contractuales.",
+        "relación": [
+            "A5"
+        ],
+        "cumplimiento": 0
+    },
+    {
+        "id": 25, 
+        "funcion":"1. Identificar", 
+        "categoria":"6. Gestión del riesgo de la cadena de suministro",
+        "descripcionCat":"Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.",
+        "subCat":"ID.SC-5",
+        "descripcionSubCat":"Las pruebas y la planificación de respuesta y recuperación se llevan a cabo con proveedores.",
+        "relación": [
+            "A5", "A6", "A11"
+        ],
+        "cumplimiento": 0
     }
 ]
