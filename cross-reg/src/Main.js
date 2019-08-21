@@ -4,6 +4,7 @@ import Home from './Home'
 import Selection from './pages/Selection'
 import Analysis from './pages/Analysis'
 import Checklist from './pages/Checklist'
+import State from './pages/State'
 
 
 // The Main component renders one of the three provided
@@ -18,6 +19,7 @@ const Main = () => (
       <Route path='/selection' component={Selection}/>
       <Route path='/analysis' component={Analysis}/>
       <Route path='/checklist' component={Checklist}/>
+      <Route path='/state' component={State}/>
     </Switch>
   </main>
 )
