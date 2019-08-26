@@ -18,6 +18,9 @@ You can download it here: (https://nodejs.org/en/)
 
 * [REACT](https://es.reactjs.org/) - JS library
 
+## Evidence
+![alt text](https://github.com/ivettemar16020/CrossRegulations/blob/master/Docs/evidence.png)
+![alt text](https://github.com/ivettemar16020/CrossRegulations/blob/master/Docs/evidence2.png)
 
 ## Authors
 
